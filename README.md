@@ -11,7 +11,8 @@ This repository contains a Python script for checking administrative privileges 
 🔑 Key Features:
 - Check if the script is running with administrative privileges
 - Relaunch the script with admin privileges if required
-- Generate directory hierarchies with detailed file listings
+- Generate directory hierarchies with detailed file listings, use - get_file_hierarchy.py
+- Generate directory hierarchies with detailed file listings and with there size, use - get_file_hierarchy_with_size.py
 - User-friendly CLI interface for selecting directories
 
 📦 Installation:
@@ -19,7 +20,9 @@ To use this script, simply clone the repository and run the Python script:
 
 $ git clone https://github.com/username/admin-rights-checker.git
 $ cd admin-rights-checker
-$ python script.py
+$ python get_file_hierarchy.py      (OR)
+$ python get_file_hierarchy_with_size.py
+
 
 
 🤝 Contributing:
