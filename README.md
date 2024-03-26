@@ -21,3 +21,13 @@ $ git clone https://github.com/username/admin-rights-checker.git
 $ cd admin-rights-checker
 $ python script.py
 
+
+🤝 Contributing:
+Contributions to this project are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
+
+📄 License:
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📧 Contact/Support:
+For questions or support, please contact us or open an issue on GitHub.
+
