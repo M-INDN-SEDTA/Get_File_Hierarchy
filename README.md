@@ -17,7 +17,7 @@ This repository contains a Python script for checking administrative privileges 
 📦 Installation:
 To use this script, simply clone the repository and run the Python script:
 
-git clone https://github.com/username/admin-rights-checker.git
-cd admin-rights-checker
-python script.py
+$ git clone https://github.com/username/admin-rights-checker.git
+$ cd admin-rights-checker
+$ python script.py
 
