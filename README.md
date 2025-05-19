@@ -18,7 +18,7 @@ This repository contains a Python script for checking administrative privileges 
 📦 Installation:
 To use this script, simply clone the repository and run the Python script:
 - 
-- git clone https://github.com/username/admin-rights-checker.git
+- git clone https://github.com/M-INDN-SEDTA/Get_File_Hierarchy
 - cd admin-rights-checker ( exlcude this or no need to run )
 - python get_file_hierarchy.py      (OR)
 - python get_file_hierarchy_with_size.py
